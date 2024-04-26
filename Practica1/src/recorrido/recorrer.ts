@@ -1,7 +1,6 @@
 import { computadora, computadoras, prestamista, prestamistas, prestamo, prestamos } from "../arreglos/arreglos";
 
 
-
 export function mostrarDatos() {
     console.log("Computadoras");
     computadoras.forEach((computadora: computadora) => {
