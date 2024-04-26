@@ -14,3 +14,5 @@ buscarPorID<computadora>(computadoras, 3, (computadora: computadora) => {
     console.log("computadora encontrado:");
     console.log(computadora);
 });
+
+
